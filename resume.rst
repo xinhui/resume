@@ -13,7 +13,6 @@ COMPÉTENCES TECHNIQUES
 :Languages : PHP5, SQL, JavaScript OOP, HTML5, CSS 
 :Frameworks/CMS : Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
-
 :Outils : Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano, Redmine
 :Systèmes : Unix/Linux, MacOSX
 
@@ -50,19 +49,19 @@ PROJETS RECENTS
         | Développement du site http://www.syntec-numerique.fr
         | Le site dispose d'un générateur de mini-site (profile d'installation)
         | L'annuaire des membres est synchronisé avec un CRM via web service.
-        | Technologies : Drupal7, SOAP, Bootstrap, MySql
+        | Technologies : Drupal 7, SOAP, Bootstrap, MySql
         |        
 
 :2012 : | **Synoptic**
         | Réseau social interne pour le Ministère de la défense
         | Optimisation performance - sécurité
         | Maintenance de la VM
-        | Technologies : Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM
+        | Technologies : Drupal 7, MySql, API REST, LDAP, SOAP, Linux, VM
         |
 
 :2012 : | **Canal+ Présidentielle 2012**
         | Développement de la WebApp et des API REST
-        | Technologies : Symfony2, Sencha Touch, NodeJs, Redis, Socket.io
+        | Technologies : Symfony 2, Sencha Touch, NodeJs, Redis, Socket.io
         |
 
 :2011 : | **Social Desk – Projet interne R&D**
@@ -75,5 +74,5 @@ PROJETS RECENTS
         | Développement/Spécification du site http://www.wise-qatar.org
         | Site éditorial et réseau social pour la Qatar Foundation
         | Optimisation des performances pour tenir la forte charge pendant le sommet
-        | Technologies : Drupal7, PressFlow, MySql, API REST, Evenium
+        | Technologies : Drupal 6, PressFlow, MySql, API REST, Evenium
         |
