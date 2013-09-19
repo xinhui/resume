@@ -11,7 +11,7 @@ Xinhui Xu - Développeur Web
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Languages : PHP5, SQL, JavaScript OOP, HTML5, CSS 
-:Frameworks Web/CMS : Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch
+:Frameworks/CMS : Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
 
 :Outils : Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano, Redmine
