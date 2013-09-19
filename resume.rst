@@ -43,21 +43,21 @@ PROJETS RECENTS
 :2013 : | **Shopmium**
         | Développement et maintenance de l'application Shopmium (iOS/Android)
         | https://itunes.apple.com/fr/app/shopmium/id453007855
-        | Technologies / Outils: Titanium, JavaScript OOP
+        | Technologies : Titanium, JavaScript OOP
         |        
 
 :2013 : | **Syntec Numerique**
         | Développement du site http://www.syntec-numerique.fr
         | Le site dispose d'un générateur de mini-site (profile d'installation)
         | L'annuaire des membres est synchronisé avec un CRM via web service.
-        | Technologies / Outils: Drupal7, SOAP, Bootstrap, MySql
+        | Technologies : Drupal7, SOAP, Bootstrap, MySql
         |        
 
 :2012 : | **Synoptic**
         | Réseau social interne pour le Ministère de la défense
         | Optimisation performance - sécurité
         | Maintenance de la VM
-        | Technologies / Outils: Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM
+        | Technologies : Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM
         |
 
 :2012 : | **Canal+ Présidentielle 2012**

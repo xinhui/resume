@@ -169,7 +169,7 @@ endobj
 % 'R13': class PDFInfo 
 13 0 obj
 << /Author ()
- /CreationDate (D:20130919203453-01'00')
+ /CreationDate (D:20130919204139-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -228,7 +228,7 @@ endobj
 % 'R19': class PDFStream 
 19 0 obj
 % page stream
-<< /Length 8885 >>
+<< /Length 8865 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -389,7 +389,7 @@ q
 1 0 0 1 6 3 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL -41.52992 0 Td (Frameworks Web/CMS :) Tj T* 41.52992 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL -18.18992 0 Td (Frameworks/CMS :) Tj T* 18.18992 0 Td ET
 Q
 Q
 q
@@ -675,7 +675,7 @@ q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Titanium, JavaScript OOP) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Titanium, JavaScript OOP) Tj T* ET
 Q
 Q
 q
@@ -736,7 +736,7 @@ q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Drupal7, SOAP, Bootstrap, MySql) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal7, SOAP, Bootstrap, MySql) Tj T* ET
 Q
 Q
 q
@@ -758,7 +758,7 @@ endobj
 % 'R20': class PDFStream 
 20 0 obj
 % page stream
-<< /Length 3780 >>
+<< /Length 3772 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -807,7 +807,7 @@ q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM) Tj T* ET
 Q
 Q
 q
@@ -1017,18 +1017,18 @@ xref
 0000093318 00000 n
 0000093477 00000 n
 0000093593 00000 n
-0000102577 00000 n
-0000106460 00000 n
-0000106566 00000 n
-0000106643 00000 n
+0000102557 00000 n
+0000106432 00000 n
+0000106538 00000 n
+0000106615 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\351\243+\204\230\353\203\375\020\241\347]S|NB) (\351\243+\204\230\353\203\375\020\241\347]S|NB)] 
+ [(\235N%\347\251\314\335\340\027\370\272\201d\203\251y) (\235N%\347\251\314\335\340\027\370\272\201d\203\251y)] 
 
  /Info 13 0 R
  /Root 12 0 R
  /Size 24 >>
 startxref
-106690
+106662
 %%EOF
