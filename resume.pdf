@@ -19,13 +19,13 @@ endobj
 3 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (mailto:xuwhisk@gmail.com) >>
+ /URI (mailto:xinhuixu.dev@gmail.com) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 154.063
  655.5136
- 245.333
+ 265.353
  667.5136 ]
  /Subtype /Link
  /Type /Annot >>
@@ -57,28 +57,60 @@ endobj
 6 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.dacast.com) >>
+ /URI (http://www.shopmium.com) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 148.063
- 152.6536
- 223.633
- 164.6536 ]
+ 460.8536
+ 526.5827
+ 472.8536 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://itunes.apple.com/fr/app/shopmium/id453007855) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 148.063
+ 218.6536
+ 526.5827
+ 230.6536 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.syntec-numerique.fr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 253.113
+ 167.6536
+ 390.933
+ 179.6536 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-7 0 obj
+9 0 obj
 % Page dictionary
 << /Annots [ 3 0 R
- 6 0 R ]
- /Contents 21 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R ]
+ /Contents 19 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 20 0 R
+ /Parent 18 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -90,95 +122,31 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
-8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://rapportannuel.axa.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 148.063
- 741.7736
- 250.333
- 753.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-9 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.lyon-turin.info) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 148.063
- 681.7736
- 232.523
- 693.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 % 'Annot.NUMBER5': class PDFDictionary 
 10 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.wcie.fr) >>
+ /URI (http://www.wise-qatar.org) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 148.063
- 630.7736
- 201.393
- 642.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER6': class PDFDictionary 
-11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.europ-assistance.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 148.063
- 582.7736
- 270.313
- 594.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER7': class PDFDictionary 
-12 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://lescarnets.espritdepicardie.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 148.063
- 534.7736
- 291.443
- 546.7736 ]
+ /Rect [ 312.583
+ 555.7736
+ 425.393
+ 567.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-13 0 obj
+11 0 obj
 % Page dictionary
-<< /Annots [ 8 0 R
- 9 0 R
- 10 0 R
- 11 0 R
- 12 0 R ]
- /Contents 22 0 R
+<< /Annots [ 10 0 R ]
+ /Contents 20 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 20 0 R
+ /Parent 18 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -189,78 +157,78 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R14': class PDFCatalog 
-14 0 obj
+% 'R12': class PDFCatalog 
+12 0 obj
 % Document Root
-<< /Outlines 16 0 R
- /PageLabels 23 0 R
+<< /Outlines 14 0 R
+ /PageLabels 21 0 R
  /PageMode /UseNone
- /Pages 20 0 R
+ /Pages 18 0 R
  /Type /Catalog >>
 endobj
-% 'R15': class PDFInfo 
-15 0 obj
+% 'R13': class PDFInfo 
+13 0 obj
 << /Author ()
- /CreationDate (D:20130917224346-01'00')
+ /CreationDate (D:20130919203453-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Xinhui Xu - D\351veloppeur Web) >>
 endobj
-% 'R16': class PDFOutlines 
-16 0 obj
+% 'R14': class PDFOutlines 
+14 0 obj
 << /Count 3
- /First 17 0 R
- /Last 19 0 R
+ /First 15 0 R
+ /Last 17 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-17 0 obj
-<< /Dest [ 7 0 R
+15 0 obj
+<< /Dest [ 9 0 R
  /XYZ
  62.69291
  625.5036
  0 ]
- /Next 18 0 R
- /Parent 16 0 R
+ /Next 16 0 R
+ /Parent 14 0 R
  /Title (COMP\311TENCES TECHNIQUES) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-18 0 obj
-<< /Dest [ 7 0 R
+16 0 obj
+<< /Dest [ 9 0 R
  /XYZ
  62.69291
  509.3036
  0 ]
- /Next 19 0 R
- /Parent 16 0 R
- /Prev 17 0 R
+ /Next 17 0 R
+ /Parent 14 0 R
+ /Prev 15 0 R
  /Title (EXPERIENCES) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-19 0 obj
-<< /Dest [ 7 0 R
+17 0 obj
+<< /Dest [ 9 0 R
  /XYZ
  62.69291
- 291.1036
+ 279.1036
  0 ]
- /Parent 16 0 R
- /Prev 18 0 R
+ /Parent 14 0 R
+ /Prev 16 0 R
  /Title (PROJETS RECENTS) >>
 endobj
-% 'R20': class PDFPages 
-20 0 obj
+% 'R18': class PDFPages 
+18 0 obj
 % page tree
 << /Count 2
- /Kids [ 7 0 R
- 13 0 R ]
+ /Kids [ 9 0 R
+ 11 0 R ]
  /Type /Pages >>
 endobj
-% 'R21': class PDFStream 
-21 0 obj
+% 'R19': class PDFStream 
+19 0 obj
 % page stream
-<< /Length 9003 >>
+<< /Length 8885 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -354,7 +322,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (xuwhisk@gmail.com) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (xinhuixu.dev@gmail.com) Tj T* ET
 Q
 Q
 q
@@ -400,14 +368,14 @@ q
 1 0 0 1 6 3 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 17.91008 0 Td (Syst\350mes :) Tj T* -17.91008 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 12.33008 0 Td (Languages :) Tj T* -12.33008 0 Td ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unix/Linux, MacOSX) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PHP5, SQL, JavaScript OOP, HTML5, CSS) Tj T* ET
 Q
 Q
 q
@@ -421,14 +389,14 @@ q
 1 0 0 1 6 3 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 12.33008 0 Td (Languages :) Tj T* -12.33008 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL -41.52992 0 Td (Frameworks Web/CMS :) Tj T* 41.52992 0 Td ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PHP5, SQL, HTML5, CSS, Javascript OOP) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch) Tj T* ET
 Q
 Q
 q
@@ -449,7 +417,7 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Design Patterns, TDD, Agile Scrum | Kaban) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Agile Scrum | Kaban, TDD, Design Patterns) Tj T* ET
 Q
 Q
 q
@@ -463,14 +431,14 @@ q
 1 0 0 1 6 3 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL -41.52992 0 Td (Frameworks Web/CMS :) Tj T* 41.52992 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 36.25008 0 Td (Outils :) Tj T* -36.25008 0 Td ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Drupal, Symfony 1.4, Titanium, Node.js, Sencha Touch) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano, Redmine) Tj T* ET
 Q
 Q
 q
@@ -484,14 +452,14 @@ q
 1 0 0 1 6 3 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 36.25008 0 Td (Outils :) Tj T* -36.25008 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 17.91008 0 Td (Syst\350mes :) Tj T* -17.91008 0 Td ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Git/Svn/Hg, PhpUnit, Capistrano) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unix/Linux, MacOSX) Tj T* ET
 Q
 Q
 q
@@ -514,7 +482,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.670079 0 Td (Depuis 2012 :) Tj T* -5.670079 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2013 :) Tj T* -39.57008 0 Td ET
 Q
 Q
 q
@@ -524,28 +492,29 @@ q
 1 0 0 1 85.37008 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Lead developeur PHP5/Drupal \226 LaNetscouade \226 Paris \(75\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (D\351veloppeur Mobile Titanium \226 Shopmium \226 Paris) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 27 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developpement d'applications sociales en Symfony2) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.shopmium.com) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developpements Drupal) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351veloppement de l'application Shopmium) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developpement d'applications web avec AngularJs) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
@@ -555,14 +524,76 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 394.1036 cm
+1 0 0 1 62.69291 334.1036 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 .4 .607843 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 8.440079 0 Td (2008 - 2013 :) Tj T* -8.440079 0 Td ET
+Q
+Q
+q
+1 0 0 1 85.37008 99 cm
+Q
+q
+1 0 0 1 85.37008 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Lead d\351veloppeur PHP5/Drupal/Symfony \226 LaNetscouade \226 Paris) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (R\351f\351rent technique sur l'offre Drupal de l'agence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .593298 Tw (D\351veloppement/Sp\351cification d'une offre r\351seau social instanciable bas\351 sur le CMS) Tj T* 0 Tw (Drupal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.309965 Tw (D\351veloppement d'un r\351seau social en Symfony 1.4 \(Activity feed, Relationship,) Tj T* 0 Tw (Spaces, Privacy etc..\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351veloppement de WebApp avec Sencha Touch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 295.1036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 27 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2012 :) Tj T* -39.57008 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2007 :) Tj T* -39.57008 0 Td ET
 Q
 Q
 q
@@ -572,69 +603,21 @@ q
 1 0 0 1 85.37008 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Ing\351nieur/Developeur Symfony2/PHP5 \226 Dacast \226 Paris \(75\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (D\351veloppeur web PHP/MySql \226 F\351d\351ration Fran\347aise de Basketball \226 Paris) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintenant du site de la F\351d\351ration) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.144241 Tw (Developpement/Sp\351cifiaction d'une application ecommerce complexe et des API) Tj T* 0 Tw (associ\351es.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 307.1036 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 75 cm
-q
-0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2010 :) Tj T* -39.57008 0 Td ET
-Q
-Q
-q
-1 0 0 1 85.37008 87 cm
-Q
-q
-1 0 0 1 85.37008 75 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Lead developeur \226 lacompany \226 Montrouge \(92\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 63 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Suivi des travaux developpement) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 51 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mise en place d'outils de gestion de projet, de r\350gles et de conventions de code) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 27 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .946969 Tw (Gestion des serveurs de production \(installation, mise \340 jour, backup, configuration,) Tj T* 0 Tw (mise en production des projets\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.224969 Tw (D\351velopement backend et frontend \226 Symfony 2, symfony 1.4, HTML5, CSS3,) Tj T* 0 Tw (javascript) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sp\351cification et D\351veloppement d'un intranet pour le suivi m\351dical des joueurs) Tj T* ET
 Q
 Q
 q
@@ -644,47 +627,62 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 277.9036 cm
+1 0 0 1 62.69291 265.9036 cm
 q
 BT 1 0 0 1 0 2.2 Tm 13.2 TL /F1 11 Tf 0 0 0 rg (PROJETS RECENTS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 265.9036 cm
+1 0 0 1 62.69291 253.9036 cm
 Q
 q
-1 0 0 1 62.69291 226.9036 cm
+1 0 0 1 62.69291 190.9036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 27 cm
+1 0 0 1 6 51 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2013 :) Tj T* -39.57008 0 Td ET
 Q
 Q
 q
+1 0 0 1 85.37008 63 cm
+Q
+q
+1 0 0 1 85.37008 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Shopmium) Tj T* ET
+Q
+Q
+q
 1 0 0 1 85.37008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351veloppement et maintenance de l'application Shopmium \(iOS/Android\)) Tj T* ET
+Q
 Q
 q
 1 0 0 1 85.37008 27 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Developement du site Kedge Business School \(sortie en septembre\)) Tj T* ET
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://itunes.apple.com/fr/app/shopmium/id453007855) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developpement d'un site en Drupal pour un \351cole de commerce) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Titanium, JavaScript OOP) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Drupal7, CSS3) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
@@ -694,7 +692,139 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 175.9036 cm
+1 0 0 1 62.69291 115.9036 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 .4 .607843 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2013 :) Tj T* -39.57008 0 Td ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
+Q
+q
+1 0 0 1 85.37008 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Syntec Numerique) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (D\351veloppement du site ) Tj 0 0 .501961 rg (http://www.syntec-numerique.fr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Le site dispose d'un g\351n\351rateur de mini-site \(profile d'installation\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (L'annuaire des membres est synchronis\351 avec un CRM via web service.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Drupal7, SOAP, Bootstrap, MySql) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R20': class PDFStream 
+20 0 obj
+% page stream
+<< /Length 3780 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 690.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 .4 .607843 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2012 :) Tj T* -39.57008 0 Td ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
+Q
+q
+1 0 0 1 85.37008 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Synoptic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (R\351seau social interne pour le Minist\350re de la d\351fense) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Optimisation performance - s\351curit\351) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintenance de la VM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies / Outils: Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -711,68 +841,21 @@ q
 1 0 0 1 85.37008 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Plateforme de consultation) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Canal+ Pr\351sidentielle 2012) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developpement d'une plateforme de consultation \(Backend + API + Client\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.474409 Tw (Technologies / Outils: Symfony2, API REST, MySql, AngularJs, Behat, PHPUnit,) Tj T* 0 Tw (Jenkins) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 112.9036 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 51 cm
-q
-0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2012 :) Tj T* -39.57008 0 Td ET
-Q
-Q
-q
-1 0 0 1 85.37008 63 cm
-Q
-q
-1 0 0 1 85.37008 51 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Plateforme Ecommerce Dacast.com) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 39 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (www.dacast.com) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 27 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developpement du noyau ecommerce, et des API REST, AMF associ\351es) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351veloppement de la WebApp et des API REST) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Symfony2, Twig, Api REST, AMF, Redis, MySql, RabbitMQ) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Symfony2, Sencha Touch, NodeJs, Redis, Socket.io) Tj T* ET
 Q
 Q
 q
@@ -788,219 +871,92 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-% 'R22': class PDFStream 
-22 0 obj
-% page stream
-<< /Length 3754 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 654.0236 cm
+1 0 0 1 62.69291 504.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 99 cm
-q
-0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2012 :) Tj T* -39.57008 0 Td ET
-Q
-Q
-q
-1 0 0 1 85.37008 111 cm
-Q
-q
-1 0 0 1 85.37008 99 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Rapport annuel 2011 \226 AXA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 87 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (rapportannuel.axa.com) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 63 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.842461 Tw (Technologies : Silex, Twig, HTML5, CSS3, jQuery, coffeeScript, composer,) Tj T* 0 Tw (Capistrano) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 51 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 51 cm
-Q
-q
-1 0 0 1 85.37008 51 cm
-Q
-q
-1 0 0 1 85.37008 39 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Site d'information \226 Projet ligne Lyon-Turin \226 RFF) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 27 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (www.lyon-turin.info) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal7, HTML5, SVG \(Rapha\353lJS\), CSS3, jQuery) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 459.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 183 cm
+1 0 0 1 6 123 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.57008 0 Td (2011 :) Tj T* -39.57008 0 Td ET
 Q
 Q
 q
-1 0 0 1 85.37008 195 cm
-Q
-q
-1 0 0 1 85.37008 183 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Site de l'agence W \226 W) Tj (&) Tj (Cie) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 171 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (www.wcie.fr) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 159 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal7, HTML5, CSS3, jQuery) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 147 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 147 cm
-Q
-q
-1 0 0 1 85.37008 147 cm
-Q
-q
 1 0 0 1 85.37008 135 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Site intitutionnel \226 Europassitance) Tj T* ET
-Q
 Q
 q
 1 0 0 1 85.37008 123 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (www.europ-assistance.com) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Social Desk \226 Projet interne R) Tj (&) Tj (D) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 111 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal7, HTML5, CSS3, jQuery) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351veloppement/Sp\351cification d'un r\351seau social instanciable sur demande) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 99 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (D\351veloppement du flux d'activit\351, relation utilisateur, suggestions, confidentialit\351 etc...) Tj T* ET
 Q
-Q
-q
-1 0 0 1 85.37008 99 cm
-Q
-q
-1 0 0 1 85.37008 99 cm
 Q
 q
 1 0 0 1 85.37008 87 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Blog \226 Esprit de Picardie \226 R\351gion Picardie) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Symfony 1.4, Doctrine, Lime) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 75 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (lescarnets.espritdepicardie.com/) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 63 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal6, HTML, CSS, jQuery) Tj T* ET
-Q
-Q
-q
-1 0 0 1 85.37008 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 51 cm
+1 0 0 1 85.37008 75 cm
+Q
+q
+1 0 0 1 85.37008 75 cm
+Q
+q
+1 0 0 1 85.37008 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (WISE - World Innovation Summit for Education) Tj T* ET
+Q
 Q
 q
 1 0 0 1 85.37008 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (D\351veloppement/Sp\351cification du site ) Tj 0 0 .501961 rg (http://www.wise-qatar.org) Tj T* ET
+Q
 Q
 q
 1 0 0 1 85.37008 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Boutique e-commerce) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Site \351ditorial et r\351seau social pour la Qatar Foundation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Optimisation des performances pour tenir la forte charge pendant le sommet) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.723298 Tw (Technologies : Symfony2, Twig, OAuth, Services REST, HTML5, CSS3, jQuery,) Tj T* 0 Tw (Doctrine, Capistrano) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies : Drupal7, PressFlow, MySql, API REST, Evenium) Tj T* ET
 Q
 Q
 q
@@ -1019,62 +975,60 @@ Q
  
 endstream
 endobj
-% 'R23': class PDFPageLabels 
-23 0 obj
+% 'R21': class PDFPageLabels 
+21 0 obj
 % Document Root
 << /Nums [ 0
- 24 0 R
+ 22 0 R
  1
- 25 0 R ] >>
+ 23 0 R ] >>
 endobj
-% 'R24': class PDFPageLabel 
-24 0 obj
+% 'R22': class PDFPageLabel 
+22 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R25': class PDFPageLabel 
-25 0 obj
+% 'R23': class PDFPageLabel 
+23 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
 xref
-0 26
+0 24
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
 0000000398 00000 n
-0000000667 00000 n
-0000090520 00000 n
-0000090707 00000 n
-0000090930 00000 n
-0000091316 00000 n
-0000091560 00000 n
-0000091802 00000 n
-0000092037 00000 n
-0000092285 00000 n
-0000092526 00000 n
-0000092862 00000 n
-0000093021 00000 n
-0000093299 00000 n
-0000093424 00000 n
-0000093609 00000 n
-0000093795 00000 n
-0000093954 00000 n
-0000094070 00000 n
-0000103172 00000 n
-0000107029 00000 n
-0000107135 00000 n
-0000107212 00000 n
+0000000672 00000 n
+0000090525 00000 n
+0000090712 00000 n
+0000090952 00000 n
+0000091221 00000 n
+0000091453 00000 n
+0000091855 00000 n
+0000092083 00000 n
+0000092385 00000 n
+0000092544 00000 n
+0000092822 00000 n
+0000092947 00000 n
+0000093132 00000 n
+0000093318 00000 n
+0000093477 00000 n
+0000093593 00000 n
+0000102577 00000 n
+0000106460 00000 n
+0000106566 00000 n
+0000106643 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(='@\262\217+\250\264L\212\345\301M&\022\033) (='@\262\217+\250\264L\212\345\301M&\022\033)] 
+ [(\351\243+\204\230\353\203\375\020\241\347]S|NB) (\351\243+\204\230\353\203\375\020\241\347]S|NB)] 
 
- /Info 15 0 R
- /Root 14 0 R
- /Size 26 >>
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 24 >>
 startxref
-107259
+106690
 %%EOF

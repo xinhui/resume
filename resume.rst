@@ -5,76 +5,75 @@ Xinhui Xu - Développeur Web
 |:Addresse : | 40 rue de Belleville         |                             |
 |            | 75020 PARIS                  |.. image:: xinhuixu.jpg      |
 |:Tel. : +33(0)7 81 80 96 76                |   :height: 323px            |
-|:Email : xuwhisk@gmail.com                 |   :width: 250px             |
+|:Email : xinhuixu.dev@gmail.com            |   :width: 250px             |
 |                                           |   :align: right             |
 +-------------------------------------------+-----------------------------+
 COMPÉTENCES TECHNIQUES
 ----------------------
+:Languages : PHP5, SQL, JavaScript OOP, HTML5, CSS 
+:Frameworks Web/CMS : Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch
+:Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
+
+:Outils : Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano, Redmine
 :Systèmes : Unix/Linux, MacOSX
-:Languages : PHP5, MySql, Javascript OOP, HTML5, CSS 
-:Methodologies : Agile Scrum | Kaban, Design Patterns, TDD
-:Frameworks Web/CMS : Drupal, Node.js (Express), Symfony 1.4, Titanium, Sencha Touch
-:Outils : Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano
 
 EXPERIENCES
 -----------
-:Depuis 2012 : | **Lead developeur PHP5/Drupal – LaNetscouade – Paris (75)**
-        | Developpement d'applications sociales en Symfony2
-        | Developpements Drupal
-        | Developpement d'applications web avec AngularJs
 
-:2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
-        | Developpement/Spécifiaction d'une application ecommerce complexe et des API associées.
+:2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
+        | http://www.shopmium.com
+        | Développement de l'application Shopmium 
+        |
 
-:2010 : | **Lead developeur – lacompany – Montrouge (92)**
-        | Suivi des travaux developpement
-        | Mise en place d'outils de gestion de projet, de règles et de conventions de code
-        | Gestion des serveurs de production (installation, mise à jour, backup, configuration, mise en production des projets)
-        | Dévelopement backend et frontend – Symfony 2, symfony 1.4, HTML5, CSS3, javascript
+:2008 - 2013 : | **Lead développeur PHP5/Drupal/Symfony – LaNetscouade – Paris**
+        | Référent technique sur l'offre Drupal de l'agence
+        | Développement/Spécification d'une offre réseau social instanciable basé sur le CMS Drupal
+        | Développement d'un réseau social en Symfony 1.4 (Activity feed, Relationship, Spaces, Privacy etc..)
+        | Développement de WebApp avec Sencha Touch
+        |
+
+:2007 : | **Développeur web PHP/MySql – Fédération Française de Basketball – Paris**
+        | Maintenant du site de la Fédération
+        | Spécification et Développement d'un intranet pour le suivi médical des joueurs
 
 
 PROJETS RECENTS
 ---------------
 
-:2013 : | **Developement du site Kedge Business School (sortie en septembre)**
-        | Developpement d'un site en Drupal pour un école de commerce
-        | Technologies / Outils: Drupal7, CSS3
+:2013 : | **Shopmium**
+        | Développement et maintenance de l'application Shopmium (iOS/Android)
+        | https://itunes.apple.com/fr/app/shopmium/id453007855
+        | Technologies / Outils: Titanium, JavaScript OOP
+        |        
 
-:2012 : | **Plateforme de consultation**
-        | Developpement d'une plateforme de consultation (Backend + API + Client)
-        | Technologies / Outils: Symfony2, API REST, MySql, AngularJs, Behat, PHPUnit, Jenkins
+:2013 : | **Syntec Numerique**
+        | Développement du site http://www.syntec-numerique.fr
+        | Le site dispose d'un générateur de mini-site (profile d'installation)
+        | L'annuaire des membres est synchronisé avec un CRM via web service.
+        | Technologies / Outils: Drupal7, SOAP, Bootstrap, MySql
+        |        
 
-:2012 : | **Plateforme Ecommerce Dacast.com**
-        | `www.dacast.com <http://www.dacast.com>`_
-        | Developpement du noyau ecommerce, et des API REST, AMF associées
-        | Technologies : Symfony2, Twig, Api REST, AMF, Redis, MySql, RabbitMQ
+:2012 : | **Synoptic**
+        | Réseau social interne pour le Ministère de la défense
+        | Optimisation performance - sécurité
+        | Maintenance de la VM
+        | Technologies / Outils: Drupal7, MySql, API REST, LDAP, SOAP, Linux, VM
         |
 
-:2012 : | **Rapport annuel 2011 – AXA**
-        | `rapportannuel.axa.com <http://rapportannuel.axa.com>`_
-        | Technologies : Silex, Twig, HTML5, CSS3, jQuery, coffeeScript, composer, Capistrano
+:2012 : | **Canal+ Présidentielle 2012**
+        | Développement de la WebApp et des API REST
+        | Technologies : Symfony2, Sencha Touch, NodeJs, Redis, Socket.io
         |
 
-        | **Site d'information – Projet ligne Lyon-Turin – RFF**
-        | `www.lyon-turin.info <http://www.lyon-turin.info>`_
-        | Technologies : Drupal7, HTML5, SVG (RaphaëlJS), CSS3, jQuery
+:2011 : | **Social Desk – Projet interne R&D**
+        | Développement/Spécification d'un réseau social instanciable sur demande
+        | Développement du flux d'activité, relation utilisateur, suggestions, confidentialité etc...
+        | Technologies : Symfony 1.4, Doctrine, Lime
         |
 
-:2011 : | **Site de l'agence W – W&Cie**
-        | `www.wcie.fr <http://www.wcie.fr>`_
-        | Technologies : Drupal7, HTML5, CSS3, jQuery
-        |
-
-        | **Site intitutionnel – Europassitance**
-        | `www.europ-assistance.com <http://www.europ-assistance.com>`_
-        | Technologies : Drupal7, HTML5, CSS3, jQuery
-        |
-
-        | **Blog – Esprit de Picardie – Région Picardie**
-        | `lescarnets.espritdepicardie.com/ <http://lescarnets.espritdepicardie.com>`_
-        | Technologies : Drupal6, HTML, CSS, jQuery
-        |
-
-        | **Boutique e-commerce**
-        | Technologies : Symfony2, Twig, OAuth, Services REST, HTML5, CSS3, jQuery, Doctrine, Capistrano
+        | **WISE - World Innovation Summit for Education**
+        | Développement/Spécification du site http://www.wise-qatar.org
+        | Site éditorial et réseau social pour la Qatar Foundation
+        | Optimisation des performances pour tenir la forte charge pendant le sommet
+        | Technologies : Drupal7, PressFlow, MySql, API REST, Evenium
         |
