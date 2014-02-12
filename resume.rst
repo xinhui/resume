@@ -11,9 +11,9 @@ Xinhui Xu - Développeur Web
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Languages : PHP5, Ruby, SQL, JavaScript OOP, HTML5, CSS 
-:Frameworks/CMS : Drupal, Rails, AngularJS, Node.js, Yeoman, Symfony
+:Frameworks/CMS : Drupal, Rails, AngularJS, Node.js, Symfony
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
-:Outils : Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano
+:Outils : Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano, Yeoman
 
 EXPERIENCES
 -----------
