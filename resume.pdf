@@ -62,9 +62,9 @@ endobj
  0
  0 ]
  /Rect [ 148.063
- 460.8536
+ 400.8536
  526.5827
- 472.8536 ]
+ 412.8536 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -77,34 +77,18 @@ endobj
  0
  0 ]
  /Rect [ 148.063
- 218.6536
+ 158.6536
  526.5827
- 230.6536 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.syntec-numerique.fr) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 253.113
- 167.6536
- 390.933
- 179.6536 ]
+ 170.6536 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-9 0 obj
+8 0 obj
 % Page dictionary
 << /Annots [ 3 0 R
  6 0 R
- 7 0 R
- 8 0 R ]
+ 7 0 R ]
  /Contents 19 0 R
  /MediaBox [ 0
  0
@@ -122,6 +106,21 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.syntec-numerique.fr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 253.113
+ 741.7736
+ 390.933
+ 753.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
 % 'Annot.NUMBER5': class PDFDictionary 
 10 0 obj
 << /A << /S /URI
@@ -131,16 +130,17 @@ endobj
  0
  0 ]
  /Rect [ 312.583
- 555.7736
+ 480.7736
  425.393
- 567.7736 ]
+ 492.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
 11 0 obj
 % Page dictionary
-<< /Annots [ 10 0 R ]
+<< /Annots [ 9 0 R
+ 10 0 R ]
  /Contents 20 0 R
  /MediaBox [ 0
  0
@@ -169,7 +169,7 @@ endobj
 % 'R13': class PDFInfo 
 13 0 obj
 << /Author ()
- /CreationDate (D:20130919204421-01'00')
+ /CreationDate (D:20140212235443-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -185,7 +185,7 @@ endobj
 endobj
 % 'Outline.0': class OutlineEntryObject 
 15 0 obj
-<< /Dest [ 9 0 R
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
  625.5036
@@ -196,10 +196,10 @@ endobj
 endobj
 % 'Outline.1': class OutlineEntryObject 
 16 0 obj
-<< /Dest [ 9 0 R
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
- 509.3036
+ 524.3036
  0 ]
  /Next 17 0 R
  /Parent 14 0 R
@@ -208,10 +208,10 @@ endobj
 endobj
 % 'Outline.2': class OutlineEntryObject 
 17 0 obj
-<< /Dest [ 9 0 R
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
- 279.1036
+ 219.1036
  0 ]
  /Parent 14 0 R
  /Prev 16 0 R
@@ -221,14 +221,14 @@ endobj
 18 0 obj
 % page tree
 << /Count 2
- /Kids [ 9 0 R
+ /Kids [ 8 0 R
  11 0 R ]
  /Type /Pages >>
 endobj
 % 'R19': class PDFStream 
 19 0 obj
 % page stream
-<< /Length 8866 >>
+<< /Length 8495 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -375,7 +375,7 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PHP5, SQL, JavaScript OOP, HTML5, CSS) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PHP5, Ruby, SQL, JavaScript OOP, HTML5, CSS) Tj T* ET
 Q
 Q
 q
@@ -396,7 +396,7 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Drupal, Rails, AngularJS, Node.js, Yeoman, Symfony) Tj T* ET
 Q
 Q
 q
@@ -438,44 +438,78 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano, Redmine) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 525.3036 cm
+1 0 0 1 62.69291 511.1036 cm
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F1 11 Tf 0 0 0 rg (EXPERIENCES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.1036 cm
+Q
+q
+1 0 0 1 62.69291 424.1036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 63 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 17.91008 0 Td (Syst\350mes :) Tj T* -17.91008 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 8.440079 0 Td (2013 - 2014 :) Tj T* -8.440079 0 Td ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
+Q
+q
+1 0 0 1 85.37008 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (R\351f\351rent technique / Lead d\351veloppeur \226 Parti-socialiste \226 Paris) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sp\351cification, pilotage des prestataires) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Transition technologique Drupal/Symfony vers Rails/AngularJs/Yeoman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.784241 Tw (Introduction aux m\351thodes Agiles \(Scrum/kanban, Livraison-continue, Mobile first) Tj T* 0 Tw (etc..\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unix/Linux, MacOSX) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
+Q
+q
+1 0 0 1 85.37008 3 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 496.1036 cm
-q
-BT 1 0 0 1 0 2.2 Tm 13.2 TL /F1 11 Tf 0 0 0 rg (EXPERIENCES) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 484.1036 cm
-Q
-q
-1 0 0 1 62.69291 433.1036 cm
+1 0 0 1 62.69291 373.1036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -524,7 +558,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 334.1036 cm
+1 0 0 1 62.69291 274.1036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -586,7 +620,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 295.1036 cm
+1 0 0 1 62.69291 235.1036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -627,16 +661,16 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 265.9036 cm
+1 0 0 1 62.69291 205.9036 cm
 q
 BT 1 0 0 1 0 2.2 Tm 13.2 TL /F1 11 Tf 0 0 0 rg (PROJETS RECENTS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 253.9036 cm
+1 0 0 1 62.69291 193.9036 cm
 Q
 q
-1 0 0 1 62.69291 190.9036 cm
+1 0 0 1 62.69291 130.9036 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -691,8 +725,17 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+% 'R20': class PDFStream 
+20 0 obj
+% page stream
+<< /Length 4880 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 115.9036 cm
+1 0 0 1 62.69291 690.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -752,17 +795,8 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-% 'R20': class PDFStream 
-20 0 obj
-% page stream
-<< /Length 3775 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 690.0236 cm
+1 0 0 1 62.69291 615.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -824,7 +858,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 639.0236 cm
+1 0 0 1 62.69291 564.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -872,7 +906,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 504.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1005,10 +1039,10 @@ xref
 0000090525 00000 n
 0000090712 00000 n
 0000090952 00000 n
-0000091221 00000 n
-0000091453 00000 n
-0000091855 00000 n
-0000092083 00000 n
+0000091207 00000 n
+0000091601 00000 n
+0000091847 00000 n
+0000092075 00000 n
 0000092385 00000 n
 0000092544 00000 n
 0000092822 00000 n
@@ -1017,18 +1051,18 @@ xref
 0000093318 00000 n
 0000093477 00000 n
 0000093593 00000 n
-0000102558 00000 n
-0000106436 00000 n
-0000106542 00000 n
-0000106619 00000 n
+0000102187 00000 n
+0000107170 00000 n
+0000107276 00000 n
+0000107353 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(#\0055.\232\347\335 \241F\003\301\3064&\004) (#\0055.\232\347\335 \241F\003\301\3064&\004)] 
+ [(\017\356\352\2652\002\362\031D2\021D\356\340\0062) (\017\356\352\2652\002\362\031D2\021D\356\340\0062)] 
 
  /Info 13 0 R
  /Root 12 0 R
  /Size 24 >>
 startxref
-106666
+107400
 %%EOF

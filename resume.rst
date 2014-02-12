@@ -10,14 +10,20 @@ Xinhui Xu - Développeur Web
 +-------------------------------------------+-----------------------------+
 COMPÉTENCES TECHNIQUES
 ----------------------
-:Languages : PHP5, SQL, JavaScript OOP, HTML5, CSS 
-:Frameworks/CMS : Drupal, Node.js, Symfony 1.4, Titanium, Sencha Touch
+:Languages : PHP5, Ruby, SQL, JavaScript OOP, HTML5, CSS 
+:Frameworks/CMS : Drupal, Rails, AngularJS, Node.js, Yeoman, Symfony
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
-:Outils : Git/Svn/Hg, PhpUnit, SimpleTest, Capistrano, Redmine
-:Systèmes : Unix/Linux, MacOSX
+:Outils : Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano
 
 EXPERIENCES
 -----------
+
+
+:2013 - 2014 : | **Référent technique / Lead développeur – Parti-socialiste – Paris**
+        | Spécification, pilotage des prestataires
+        | Transition technologique Drupal/Symfony vers Rails/AngularJs/Yeoman
+        | Introduction aux méthodes Agiles (Scrum/kanban, Livraison-continue, Mobile first etc..)
+        |
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
         | http://www.shopmium.com
