@@ -11,7 +11,7 @@ Xinhui Xu - Développeur Web
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Languages : PHP5, Ruby, SQL, JavaScript OOP, HTML5, CSS 
-:Frameworks/CMS : Drupal, Rails, AngularJS, Node.js, Symfony
+:Frameworks/CMS : Drupal, Rails 4, AngularJS, Node.js, Symfony
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
 :Outils : Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano, Yeoman
 
@@ -21,8 +21,8 @@ EXPERIENCES
 
 :2013 - 2014 : | **Référent technique / Lead développeur – Parti-socialiste – Paris**
         | Spécification, pilotage des prestataires
-        | Transition technologique Drupal/Symfony vers Rails/AngularJs/Yeoman
-        | Introduction aux méthodes Agiles (Scrum/kanban, Livraison-continue, Mobile first etc..)
+        | Transition technologique Drupal/Symfony vers Rails 4/AngularJs/Yeoman/Rspec/Capybara...
+        | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
         |
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
