@@ -3,8 +3,8 @@
 % 'BasicFonts': class PDFDictionary 
 1 0 obj
 % The standard fonts dictionary
-<< /F1+0 13 0 R
- /F2+0 17 0 R >>
+<< /F1+0 15 0 R
+ /F2+0 19 0 R >>
 endobj
 % 'Annot.NUMBER1': class PDFDictionary 
 2 0 obj
@@ -44,39 +44,23 @@ endobj
  0
  0 ]
  /Rect [ 148.063
- 400.8536
+ 388.8536
  526.5827
- 412.8536 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER3': class PDFDictionary 
-5 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://itunes.apple.com/fr/app/shopmium/id453007855) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 148.063
- 134.6536
- 526.5827
- 146.6536 ]
+ 400.8536 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-6 0 obj
+5 0 obj
 % Page dictionary
 << /Annots [ 2 0 R
- 4 0 R
- 5 0 R ]
- /Contents 25 0 R
+ 4 0 R ]
+ /Contents 27 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -88,18 +72,33 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.lavillequonaime.fr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 148.063
+ 729.7736
+ 526.5827
+ 741.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
 % 'Annot.NUMBER4': class PDFDictionary 
 7 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.syntec-numerique.fr) >>
+ /URI (http://www.parti-socialiste.tv) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 267.7407
- 741.7736
- 432.3843
- 753.7736 ]
+ /Rect [ 148.063
+ 669.7736
+ 526.5827
+ 681.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -107,28 +106,61 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (https://itunes.apple.com/fr/app/shopmium/id453007855) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 148.063
+ 606.7736
+ 526.5827
+ 618.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.syntec-numerique.fr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 267.7407
+ 558.7736
+ 432.3843
+ 570.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://www.wise-qatar.org) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 335.8169
- 468.7736
+ 288.7736
  471.3589
- 480.7736 ]
+ 300.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-9 0 obj
+11 0 obj
 % Page dictionary
-<< /Annots [ 7 0 R
- 8 0 R ]
- /Contents 26 0 R
+<< /Annots [ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R ]
+ /Contents 28 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 24 0 R
+ /Parent 26 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -140,7 +172,7 @@ endobj
  /Type /Page >>
 endobj
 % 'toUnicodeCMap:AAAAAA+Verdana-Bold': class PDFStream 
-10 0 obj
+12 0 obj
 << /Length 1936 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -296,7 +328,7 @@ end
 endendstream
 endobj
 % 'fontFile:/Library/Fonts/Microsoft/Verdana Bold.ttf(AAAAAA+Verdana-Bold)': class PDFStream 
-11 0 obj
+13 0 obj
 << /Length 25856
  /Length1 25856 >>
 stream
@@ -507,7 +539,7 @@ _  
  Ä@Ä@Ä ? O   / ? @o  ø œ ˇ ;:9 8P3∞K KTB∞K KSB∞3+K∏ R∞2+K∞	P[X±éY∞3+∞à∏ T∞à∏ T∞CZ[X∏±éÖ∞CX±∏ÄÖçç±∏ÄÖççYY+∞dKSX∞pY∞2KSX∞êY ++++stsss++++++++++++++++++++++++±	2+K∞dRB±ÈE#Eha∞È#D±ÍÈE#Eh`∞Í#Ds++++++sss+++++++++ss+sts++++++++s++s++ssssssssssss +u+++s+t+++++++++++++++++s++++   endstream
 endobj
 % 'fontDescriptor:AAAAAA+Verdana-Bold': class PDFDictionary 
-12 0 obj
+14 0 obj
 << /Ascent 764.6484
  /CapHeight 727.0508
  /Descent -206.543
@@ -516,22 +548,22 @@ endobj
  -303.2227
  1707.031
  1071.777 ]
- /FontFile2 11 0 R
+ /FontFile2 13 0 R
  /FontName /AAAAAA+Verdana-Bold
  /ItalicAngle 0
  /StemV 165
  /Type /FontDescriptor >>
 endobj
 % 'F1+0': class PDFTrueTypeFont 
-13 0 obj
+15 0 obj
 % Font Verdana Bold subset 0
 << /BaseFont /AAAAAA+Verdana-Bold
  /FirstChar 0
- /FontDescriptor 12 0 R
+ /FontDescriptor 14 0 R
  /LastChar 131
  /Name /F1+0
  /Subtype /TrueType
- /ToUnicode 10 0 R
+ /ToUnicode 12 0 R
  /Type /Font
  /Widths [ 1000
  1000
@@ -667,7 +699,7 @@ endobj
  588.3789 ] >>
 endobj
 % 'toUnicodeCMap:AAAAAA+Verdana': class PDFStream 
-14 0 obj
+16 0 obj
 << /Length 1909 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -822,7 +854,7 @@ end
 endendstream
 endobj
 % 'fontFile:/Library/Fonts/Microsoft/Verdana.ttf(AAAAAA+Verdana)': class PDFStream 
-15 0 obj
+17 0 obj
 << /Length 29676
  /Length1 29676 >>
 stream
@@ -1046,7 +1078,7 @@ p.j∞‡&êvÙŒH⁄:ûB pR¿`∏lHñ,àêXé∫¸4J
 	7 P∏ˇ∞K KTB∞K KSB±	2+K∞dRBÖçç∞ñKRX∞ÄY∏ KTX∞∞éY∞KSX∞∞éY +++++stss++++++++++++++++++++∞E∞Eha∞#Ds∞E∞Eha∞#D∞E∞Eha∞#D+∞Eh∞#D+s++++++++++++++++sssssssss+s+s+++++ss++++s++++ u++++++++++++++++++++stsst+st++endstream
 endobj
 % 'fontDescriptor:AAAAAA+Verdana': class PDFDictionary 
-16 0 obj
+18 0 obj
 << /Ascent 764.6484
  /CapHeight 727.0508
  /Descent -206.543
@@ -1055,22 +1087,22 @@ endobj
  -303.2227
  1446.777
  1050.781 ]
- /FontFile2 15 0 R
+ /FontFile2 17 0 R
  /FontName /AAAAAA+Verdana
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
 % 'F2+0': class PDFTrueTypeFont 
-17 0 obj
+19 0 obj
 % Font Verdana subset 0
 << /BaseFont /AAAAAA+Verdana
  /FirstChar 0
- /FontDescriptor 16 0 R
+ /FontDescriptor 18 0 R
  /LastChar 130
  /Name /F2+0
  /Subtype /TrueType
- /ToUnicode 14 0 R
+ /ToUnicode 16 0 R
  /Type /Font
  /Widths [ 1000
  1000
@@ -1204,78 +1236,78 @@ endobj
  595.7031
  595.7031 ] >>
 endobj
-% 'R18': class PDFCatalog 
-18 0 obj
+% 'R20': class PDFCatalog 
+20 0 obj
 % Document Root
-<< /Outlines 20 0 R
- /PageLabels 27 0 R
+<< /Outlines 22 0 R
+ /PageLabels 29 0 R
  /PageMode /UseNone
- /Pages 24 0 R
+ /Pages 26 0 R
  /Type /Catalog >>
 endobj
-% 'R19': class PDFInfo 
-19 0 obj
+% 'R21': class PDFInfo 
+21 0 obj
 << /Author ()
- /CreationDate (D:20140710161347-01'00')
+ /CreationDate (D:20140725102348-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Xinhui Xu - D\351veloppeur Web) >>
 endobj
-% 'R20': class PDFOutlines 
-20 0 obj
+% 'R22': class PDFOutlines 
+22 0 obj
 << /Count 3
- /First 21 0 R
- /Last 23 0 R
+ /First 23 0 R
+ /Last 25 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-21 0 obj
-<< /Dest [ 6 0 R
+23 0 obj
+<< /Dest [ 5 0 R
  /XYZ
  62.69291
  625.5036
  0 ]
- /Next 22 0 R
- /Parent 20 0 R
+ /Next 24 0 R
+ /Parent 22 0 R
  /Title (COMP\311TENCES TECHNIQUES) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-22 0 obj
-<< /Dest [ 6 0 R
+24 0 obj
+<< /Dest [ 5 0 R
  /XYZ
  62.69291
- 524.3036
+ 512.3036
  0 ]
- /Next 23 0 R
- /Parent 20 0 R
- /Prev 21 0 R
+ /Next 25 0 R
+ /Parent 22 0 R
+ /Prev 23 0 R
  /Title (EXPERIENCES) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-23 0 obj
-<< /Dest [ 6 0 R
+25 0 obj
+<< /Dest [ 5 0 R
  /XYZ
  62.69291
- 195.1036
+ 183.1036
  0 ]
- /Parent 20 0 R
- /Prev 22 0 R
+ /Parent 22 0 R
+ /Prev 24 0 R
  /Title (PROJETS RECENTS) >>
 endobj
-% 'R24': class PDFPages 
-24 0 obj
+% 'R26': class PDFPages 
+26 0 obj
 % page tree
 << /Count 2
- /Kids [ 6 0 R
- 9 0 R ]
+ /Kids [ 5 0 R
+ 11 0 R ]
  /Type /Pages >>
 endobj
-% 'R25': class PDFStream 
-25 0 obj
+% 'R27': class PDFStream 
+27 0 obj
 % page stream
-<< /Length 8439 >>
+<< /Length 7651 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -1417,7 +1449,7 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (PHP5, Ruby, SQL, JavaScript OOP, HTML5, CSS) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (PHP5, Ruby, SQL, JavaScript OOP, CoffeeScript, HTML5, CSS) Tj T* ET
 Q
 Q
 q
@@ -1464,10 +1496,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 540.3036 cm
+1 0 0 1 62.69291 528.3036 cm
 0 0 0 rg
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 15 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 2 Tm 30.47555 0 Td /F2+0 10 Tf 12 TL (Outils\200:) Tj T* -30.47555 0 Td ET
@@ -1477,23 +1509,23 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano, Yeoman) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (Git/Svn, Capistrano, Rspec, Capybara, SimpleTest, Redmine, Apache,) Tj T* (Memcache, Yeoman) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 511.1036 cm
+1 0 0 1 62.69291 499.1036 cm
 q
 BT 1 0 0 1 0 2.2 Tm 13.2 TL 0 0 0 rg /F1+0 11 Tf 13.2 TL (EXPERIENCES) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 499.1036 cm
+1 0 0 1 62.69291 487.1036 cm
 Q
 q
-1 0 0 1 62.69291 424.1036 cm
+1 0 0 1 62.69291 412.1036 cm
 0 0 0 rg
 q
 1 0 0 1 6 51 cm
@@ -1520,17 +1552,24 @@ BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Sp\201cification, pilotage des prestataires
 Q
 Q
 q
+1 0 0 1 85.37008 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Transition technologique Drupal/Symfony vers Rails/AngularJs) Tj T* ET
+Q
+Q
+q
 1 0 0 1 85.37008 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm 29.34428 Tw /F2+0 10 Tf 12 TL (Transition technologique Drupal/Symfony vers Rails) Tj T* 0 Tw (4/AngularJs/Yeoman/Rspec/Capybara...) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Introduction aux m\201thodes Agiles \(Scrum/kanban, Mobile first, TDD etc..\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Introduction aux m\201thodes Agiles \(Scrum/kanban, Mobile first, TDD etc..\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Refonte du site parti-socialiste.fr en cours...) Tj T* ET
 Q
 Q
 q
@@ -1547,7 +1586,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 373.1036 cm
+1 0 0 1 62.69291 361.1036 cm
 0 0 0 rg
 q
 1 0 0 1 6 39 cm
@@ -1595,7 +1634,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 274.1036 cm
+1 0 0 1 62.69291 262.1036 cm
 0 0 0 rg
 q
 1 0 0 1 6 75 cm
@@ -1656,7 +1695,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 211.1036 cm
+1 0 0 1 62.69291 199.1036 cm
 0 0 0 rg
 q
 1 0 0 1 6 51 cm
@@ -1696,23 +1735,74 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 181.9036 cm
+1 0 0 1 62.69291 169.9036 cm
 q
 BT 1 0 0 1 0 2.2 Tm 13.2 TL 0 0 0 rg /F1+0 11 Tf 13.2 TL (PROJETS RECENTS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 169.9036 cm
+1 0 0 1 62.69291 157.9036 cm
 Q
+ 
+endstream
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 7106 >>
+stream
+1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 106.9036 cm
+1 0 0 1 62.69291 642.0236 cm
 0 0 0 rg
 q
-1 0 0 1 6 51 cm
+1 0 0 1 6 111 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2013\200:) Tj T* -33.88375 0 Td ET
+BT 1 0 0 1 0 2 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2014\200:) Tj T* -33.88375 0 Td ET
 Q
+Q
+q
+1 0 0 1 85.37008 123 cm
+Q
+q
+1 0 0 1 85.37008 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Municipal 2014 - lavillequonaime.fr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Site \201v\201nementiel - municipal 2014) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 87 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (http://www.lavillequonaime.fr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Technologies : Angular-JS, Rails 4, Yeoman, Bootstrap 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\200) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 63 cm
 Q
 q
 1 0 0 1 85.37008 63 cm
@@ -1721,14 +1811,14 @@ q
 1 0 0 1 85.37008 51 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Shopmium) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Webtv parti-socialiste.tv) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (D\201veloppement et maintenance de l'application Shopmium \(iOS/Android\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (D\201veloppement de la webtv du Parti-socialiste) Tj T* ET
 Q
 Q
 q
@@ -1736,14 +1826,14 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (https://itunes.apple.com/fr/app/shopmium/id453007855) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (http://www.parti-socialiste.tv) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Technologies : Titanium, JavaScript OOP) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Technologies : Drupal, API REST, Dailymotion, Bootstrap) Tj T* ET
 Q
 Q
 q
@@ -1759,24 +1849,57 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-% 'R26': class PDFStream 
-26 0 obj
-% page stream
-<< /Length 4924 >>
-stream
-1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 690.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 0 0 0 rg
 q
-1 0 0 1 6 63 cm
+1 0 0 1 6 123 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 2 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2013\200:) Tj T* -33.88375 0 Td ET
 Q
+Q
+q
+1 0 0 1 85.37008 135 cm
+Q
+q
+1 0 0 1 85.37008 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Shopmium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (D\201veloppement et maintenance de l'application Shopmium \(iOS/Android\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 99 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (https://itunes.apple.com/fr/app/shopmium/id453007855) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Technologies : Titanium, JavaScript OOP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\200) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 75 cm
 Q
 q
 1 0 0 1 85.37008 75 cm
@@ -1829,75 +1952,62 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 384.0236 cm
 0 0 0 rg
 q
-1 0 0 1 6 63 cm
+1 0 0 1 6 111 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 2 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2012\200:) Tj T* -33.88375 0 Td ET
 Q
 Q
 q
-1 0 0 1 85.37008 75 cm
+1 0 0 1 85.37008 123 cm
 Q
 q
-1 0 0 1 85.37008 63 cm
+1 0 0 1 85.37008 111 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Synoptic) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 51 cm
+1 0 0 1 85.37008 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (R\201seau social interne pour le Minist\202re de la d\201fense) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 39 cm
+1 0 0 1 85.37008 87 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Optimisation performance - s\201curit\201) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 27 cm
+1 0 0 1 85.37008 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Maintenance de la VM) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 15 cm
+1 0 0 1 85.37008 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Technologies : Drupal 7, MySql, API REST, LDAP, SOAP, Linux, VM) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 3 cm
+1 0 0 1 85.37008 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\200) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 564.0236 cm
-0 0 0 rg
-q
-1 0 0 1 6 39 cm
-q
-0 .4 .607843 rg
-BT 1 0 0 1 0 2 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2012\200:) Tj T* -33.88375 0 Td ET
-Q
+1 0 0 1 85.37008 51 cm
 Q
 q
 1 0 0 1 85.37008 51 cm
@@ -1937,7 +2047,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 147 cm
@@ -2039,66 +2149,68 @@ Q
  
 endstream
 endobj
-% 'R27': class PDFPageLabels 
-27 0 obj
+% 'R29': class PDFPageLabels 
+29 0 obj
 % Document Root
 << /Nums [ 0
- 28 0 R
+ 30 0 R
  1
- 29 0 R ] >>
+ 31 0 R ] >>
 endobj
-% 'R28': class PDFPageLabel 
-28 0 obj
+% 'R30': class PDFPageLabel 
+30 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R29': class PDFPageLabel 
-29 0 obj
+% 'R31': class PDFPageLabel 
+31 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
 xref
-0 30
+0 32
 0000000000 65535 f
 0000000113 00000 n
 0000000239 00000 n
 0000000514 00000 n
 0000090379 00000 n
-0000090619 00000 n
-0000090874 00000 n
-0000091268 00000 n
-0000091516 00000 n
-0000091745 00000 n
-0000092082 00000 n
-0000094170 00000 n
-0000120163 00000 n
-0000120464 00000 n
-0000122052 00000 n
-0000124103 00000 n
-0000153911 00000 n
-0000154201 00000 n
-0000155745 00000 n
-0000155904 00000 n
-0000156182 00000 n
-0000156307 00000 n
-0000156492 00000 n
-0000156678 00000 n
-0000156837 00000 n
-0000156952 00000 n
-0000165490 00000 n
-0000170517 00000 n
-0000170623 00000 n
-0000170700 00000 n
+0000090605 00000 n
+0000090991 00000 n
+0000091237 00000 n
+0000091484 00000 n
+0000091753 00000 n
+0000092001 00000 n
+0000092231 00000 n
+0000092594 00000 n
+0000094682 00000 n
+0000120675 00000 n
+0000120976 00000 n
+0000122564 00000 n
+0000124615 00000 n
+0000154423 00000 n
+0000154713 00000 n
+0000156257 00000 n
+0000156416 00000 n
+0000156694 00000 n
+0000156819 00000 n
+0000157004 00000 n
+0000157190 00000 n
+0000157349 00000 n
+0000157465 00000 n
+0000165215 00000 n
+0000172424 00000 n
+0000172530 00000 n
+0000172607 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\363\332\376\332j<V^\223f\230\272\010'\250\200) (\363\332\376\332j<V^\223f\230\272\010'\250\200)] 
+ [(\337\000\304%\177\244\001\2221\300\020\006\264\014J\264) (\337\000\304%\177\244\001\2221\300\020\006\264\014J\264)] 
 
- /Info 19 0 R
- /Root 18 0 R
- /Size 30 >>
+ /Info 21 0 R
+ /Root 20 0 R
+ /Size 32 >>
 startxref
-170747
+172654
 %%EOF

@@ -10,10 +10,10 @@ Xinhui Xu - Développeur Web
 +-------------------------------------------+-----------------------------+
 COMPÉTENCES TECHNIQUES
 ----------------------
-:Languages : PHP5, Ruby, SQL, JavaScript OOP, HTML5, CSS 
+:Languages : PHP5, Ruby, SQL, JavaScript OOP, CoffeeScript, HTML5, CSS 
 :Frameworks/CMS : Drupal, Rails 4, AngularJS, Node.js, Symfony
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
-:Outils : Git/Svn/Hg, SimpleTest, Redmine, Nginx, Memcache, Capistrano, Yeoman
+:Outils : Git/Svn, Capistrano, Rspec, Capybara, SimpleTest, Redmine, Apache, Memcache, Yeoman
 
 EXPERIENCES
 -----------
@@ -21,8 +21,9 @@ EXPERIENCES
 
 :2013 - 2014 : | **Référent technique / Lead développeur – Parti-socialiste – Paris**
         | Spécification, pilotage des prestataires
-        | Transition technologique Drupal/Symfony vers Rails 4/AngularJs/Yeoman/Rspec/Capybara...
+        | Transition technologique Drupal/Symfony vers Rails/AngularJs
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
+        | Refonte du site parti-socialiste.fr en cours...
         |
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
@@ -44,6 +45,17 @@ EXPERIENCES
 
 PROJETS RECENTS
 ---------------
+:2014 : | **Municipal 2014 - lavillequonaime.fr**
+        | Site événementiel - municipal 2014
+        | http://www.lavillequonaime.fr
+        | Technologies : Angular-JS, Rails 4, Yeoman, Bootstrap 3
+        | 
+
+        | **Webtv parti-socialiste.tv**
+        | Développement de la webtv du Parti-socialiste
+        | http://www.parti-socialiste.tv
+        | Technologies : Drupal, API REST, Dailymotion, Bootstrap
+        | 
 
 :2013 : | **Shopmium**
         | Développement et maintenance de l'application Shopmium (iOS/Android)
@@ -51,7 +63,7 @@ PROJETS RECENTS
         | Technologies : Titanium, JavaScript OOP
         |        
 
-:2013 : | **Syntec Numerique**
+        | **Syntec Numerique**
         | Développement du site http://www.syntec-numerique.fr
         | Le site dispose d'un générateur de mini-site (profile d'installation)
         | L'annuaire des membres est synchronisé avec un CRM via web service.
@@ -65,7 +77,7 @@ PROJETS RECENTS
         | Technologies : Drupal 7, MySql, API REST, LDAP, SOAP, Linux, VM
         |
 
-:2012 : | **Canal+ Présidentielle 2012**
+        | **Canal+ Présidentielle 2012**
         | Développement de la WebApp et des API REST
         | Technologies : Symfony 2, Sencha Touch, NodeJs, Redis, Socket.io
         |
