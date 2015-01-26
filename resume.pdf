@@ -3,8 +3,8 @@
 % 'BasicFonts': class PDFDictionary 
 1 0 obj
 % The standard fonts dictionary
-<< /F1+0 15 0 R
- /F2+0 19 0 R >>
+<< /F1+0 16 0 R
+ /F2+0 20 0 R >>
 endobj
 % 'Annot.NUMBER1': class PDFDictionary 
 2 0 obj
@@ -50,17 +50,33 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page1': class PDFPage 
+% 'Annot.NUMBER3': class PDFDictionary 
 5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://drive.google.com/file/d/0B6BDAqCEefT3anJ4U1dIbEJ3cGM/view) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 148.063
+ 301.8536
+ 526.5827
+ 313.8536 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
 % Page dictionary
 << /Annots [ 2 0 R
- 4 0 R ]
- /Contents 27 0 R
+ 4 0 R
+ 5 0 R ]
+ /Contents 28 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 26 0 R
+ /Parent 27 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -72,8 +88,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
-6 0 obj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.lavillequonaime.fr) >>
@@ -81,24 +97,9 @@ endobj
  0
  0 ]
  /Rect [ 148.063
- 729.7736
+ 681.7736
  526.5827
- 741.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.parti-socialiste.tv) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 148.063
- 669.7736
- 526.5827
- 681.7736 ]
+ 693.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -106,14 +107,14 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://itunes.apple.com/fr/app/shopmium/id453007855) >>
+ /URI (http://www.parti-socialiste.tv) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 148.063
- 606.7736
+ 621.7736
  526.5827
- 618.7736 ]
+ 633.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -121,13 +122,13 @@ endobj
 9 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.syntec-numerique.fr) >>
+ /URI (https://itunes.apple.com/fr/app/shopmium/id453007855) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 267.7407
+ /Rect [ 148.063
  558.7736
- 432.3843
+ 526.5827
  570.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -136,31 +137,46 @@ endobj
 10 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (http://www.syntec-numerique.fr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 267.7407
+ 510.7736
+ 432.3843
+ 522.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://www.wise-qatar.org) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 335.8169
- 288.7736
+ 240.7736
  471.3589
- 300.7736 ]
+ 252.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-11 0 obj
+12 0 obj
 % Page dictionary
-<< /Annots [ 6 0 R
- 7 0 R
+<< /Annots [ 7 0 R
  8 0 R
  9 0 R
- 10 0 R ]
- /Contents 28 0 R
+ 10 0 R
+ 11 0 R ]
+ /Contents 29 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 26 0 R
+ /Parent 27 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -172,7 +188,7 @@ endobj
  /Type /Page >>
 endobj
 % 'toUnicodeCMap:AAAAAA+Verdana-Bold': class PDFStream 
-12 0 obj
+13 0 obj
 << /Length 1936 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -328,7 +344,7 @@ end
 endendstream
 endobj
 % 'fontFile:/Library/Fonts/Microsoft/Verdana Bold.ttf(AAAAAA+Verdana-Bold)': class PDFStream 
-13 0 obj
+14 0 obj
 << /Length 25856
  /Length1 25856 >>
 stream
@@ -539,7 +555,7 @@ _  
  Ä@Ä@Ä ? O   / ? @o  ø œ ˇ ;:9 8P3∞K KTB∞K KSB∞3+K∏ R∞2+K∞	P[X±éY∞3+∞à∏ T∞à∏ T∞CZ[X∏±éÖ∞CX±∏ÄÖçç±∏ÄÖççYY+∞dKSX∞pY∞2KSX∞êY ++++stsss++++++++++++++++++++++++±	2+K∞dRB±ÈE#Eha∞È#D±ÍÈE#Eh`∞Í#Ds++++++sss+++++++++ss+sts++++++++s++s++ssssssssssss +u+++s+t+++++++++++++++++s++++   endstream
 endobj
 % 'fontDescriptor:AAAAAA+Verdana-Bold': class PDFDictionary 
-14 0 obj
+15 0 obj
 << /Ascent 764.6484
  /CapHeight 727.0508
  /Descent -206.543
@@ -548,22 +564,22 @@ endobj
  -303.2227
  1707.031
  1071.777 ]
- /FontFile2 13 0 R
+ /FontFile2 14 0 R
  /FontName /AAAAAA+Verdana-Bold
  /ItalicAngle 0
  /StemV 165
  /Type /FontDescriptor >>
 endobj
 % 'F1+0': class PDFTrueTypeFont 
-15 0 obj
+16 0 obj
 % Font Verdana Bold subset 0
 << /BaseFont /AAAAAA+Verdana-Bold
  /FirstChar 0
- /FontDescriptor 14 0 R
+ /FontDescriptor 15 0 R
  /LastChar 131
  /Name /F1+0
  /Subtype /TrueType
- /ToUnicode 12 0 R
+ /ToUnicode 13 0 R
  /Type /Font
  /Widths [ 1000
  1000
@@ -699,7 +715,7 @@ endobj
  588.3789 ] >>
 endobj
 % 'toUnicodeCMap:AAAAAA+Verdana': class PDFStream 
-16 0 obj
+17 0 obj
 << /Length 1909 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -854,7 +870,7 @@ end
 endendstream
 endobj
 % 'fontFile:/Library/Fonts/Microsoft/Verdana.ttf(AAAAAA+Verdana)': class PDFStream 
-17 0 obj
+18 0 obj
 << /Length 29676
  /Length1 29676 >>
 stream
@@ -1078,7 +1094,7 @@ p.j∞‡&êvÙŒH⁄:ûB pR¿`∏lHñ,àêXé∫¸4J
 	7 P∏ˇ∞K KTB∞K KSB±	2+K∞dRBÖçç∞ñKRX∞ÄY∏ KTX∞∞éY∞KSX∞∞éY +++++stss++++++++++++++++++++∞E∞Eha∞#Ds∞E∞Eha∞#D∞E∞Eha∞#D+∞Eh∞#D+s++++++++++++++++sssssssss+s+s+++++ss++++s++++ u++++++++++++++++++++stsst+st++endstream
 endobj
 % 'fontDescriptor:AAAAAA+Verdana': class PDFDictionary 
-18 0 obj
+19 0 obj
 << /Ascent 764.6484
  /CapHeight 727.0508
  /Descent -206.543
@@ -1087,22 +1103,22 @@ endobj
  -303.2227
  1446.777
  1050.781 ]
- /FontFile2 17 0 R
+ /FontFile2 18 0 R
  /FontName /AAAAAA+Verdana
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
 % 'F2+0': class PDFTrueTypeFont 
-19 0 obj
+20 0 obj
 % Font Verdana subset 0
 << /BaseFont /AAAAAA+Verdana
  /FirstChar 0
- /FontDescriptor 18 0 R
+ /FontDescriptor 19 0 R
  /LastChar 130
  /Name /F2+0
  /Subtype /TrueType
- /ToUnicode 16 0 R
+ /ToUnicode 17 0 R
  /Type /Font
  /Widths [ 1000
  1000
@@ -1236,78 +1252,78 @@ endobj
  595.7031
  595.7031 ] >>
 endobj
-% 'R20': class PDFCatalog 
-20 0 obj
+% 'R21': class PDFCatalog 
+21 0 obj
 % Document Root
-<< /Outlines 22 0 R
- /PageLabels 29 0 R
+<< /Outlines 23 0 R
+ /PageLabels 30 0 R
  /PageMode /UseNone
- /Pages 26 0 R
+ /Pages 27 0 R
  /Type /Catalog >>
 endobj
-% 'R21': class PDFInfo 
-21 0 obj
+% 'R22': class PDFInfo 
+22 0 obj
 << /Author ()
- /CreationDate (D:20140725102348-01'00')
+ /CreationDate (D:20150126162128-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Xinhui Xu - D\351veloppeur Web) >>
 endobj
-% 'R22': class PDFOutlines 
-22 0 obj
+% 'R23': class PDFOutlines 
+23 0 obj
 << /Count 3
- /First 23 0 R
- /Last 25 0 R
+ /First 24 0 R
+ /Last 26 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-23 0 obj
-<< /Dest [ 5 0 R
+24 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  625.5036
  0 ]
- /Next 24 0 R
- /Parent 22 0 R
+ /Next 25 0 R
+ /Parent 23 0 R
  /Title (COMP\311TENCES TECHNIQUES) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-24 0 obj
-<< /Dest [ 5 0 R
+25 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
  512.3036
  0 ]
- /Next 25 0 R
- /Parent 22 0 R
- /Prev 23 0 R
+ /Next 26 0 R
+ /Parent 23 0 R
+ /Prev 24 0 R
  /Title (EXPERIENCES) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-25 0 obj
-<< /Dest [ 5 0 R
+26 0 obj
+<< /Dest [ 6 0 R
  /XYZ
  62.69291
- 183.1036
+ 159.1036
  0 ]
- /Parent 22 0 R
- /Prev 24 0 R
+ /Parent 23 0 R
+ /Prev 25 0 R
  /Title (PROJETS RECENTS) >>
 endobj
-% 'R26': class PDFPages 
-26 0 obj
+% 'R27': class PDFPages 
+27 0 obj
 % page tree
 << /Count 2
- /Kids [ 5 0 R
- 11 0 R ]
+ /Kids [ 6 0 R
+ 12 0 R ]
  /Type /Pages >>
 endobj
-% 'R27': class PDFStream 
-27 0 obj
+% 'R28': class PDFStream 
+28 0 obj
 % page stream
-<< /Length 7651 >>
+<< /Length 7837 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -1469,7 +1485,7 @@ q
 1 0 0 1 85.37008 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Drupal, Rails 4, AngularJS, Node.js, Symfony) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Drupal, Ruby on Rails, AngularJS, Symfony, Node.js) Tj T* ET
 Q
 Q
 q
@@ -1531,31 +1547,24 @@ q
 1 0 0 1 6 51 cm
 q
 0 .4 .607843 rg
-BT 1 0 0 1 0 14 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2013 -) Tj T* .000001 0 Td (2014\200:) Tj T* -33.88375 0 Td ET
+BT 1 0 0 1 0 14 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2014 -) Tj T* .000001 0 Td (2015\200:) Tj T* -33.88375 0 Td ET
 Q
 Q
 q
 1 0 0 1 85.37008 75 cm
 Q
 q
-1 0 0 1 85.37008 63 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (R\200f\200rent technique / Lead d\200veloppeur \202 Parti-socialiste \202 Paris) Tj T* ET
-Q
-Q
-q
 1 0 0 1 85.37008 51 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Sp\201cification, pilotage des prestataires) Tj T* ET
+BT 1 0 0 1 0 14 Tm 2.218074 Tw /F1+0 10 Tf 12 TL (R\200f\200rent technique / Lead d\200veloppeur \202 Parti-socialiste service) Tj T* 0 Tw (web \202 Paris) Tj T* ET
 Q
 Q
 q
 1 0 0 1 85.37008 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Transition technologique Drupal/Symfony vers Rails/AngularJs) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Sp\201cification, pilotage des prestataires) Tj T* ET
 Q
 Q
 q
@@ -1569,7 +1578,7 @@ q
 1 0 0 1 85.37008 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Refonte du site parti-socialiste.fr en cours...) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Refonte du site parti-socialiste.fr v3 en cours...\(preprod\)) Tj T* ET
 Q
 Q
 q
@@ -1634,37 +1643,52 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 262.1036 cm
+1 0 0 1 62.69291 238.1036 cm
 0 0 0 rg
 q
-1 0 0 1 6 75 cm
+1 0 0 1 6 99 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 14 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2008 -) Tj T* .000001 0 Td (2013\200:) Tj T* -33.88375 0 Td ET
 Q
 Q
 q
-1 0 0 1 85.37008 99 cm
+1 0 0 1 85.37008 123 cm
 Q
 q
-1 0 0 1 85.37008 87 cm
+1 0 0 1 85.37008 111 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Lead d\200veloppeur PHP5/Drupal/Symfony \202 LaNetscouade \202 Paris) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 75 cm
+1 0 0 1 85.37008 99 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (R\201f\201rent technique sur l'offre Drupal de l'agence) Tj T* ET
 Q
 Q
 q
-1 0 0 1 85.37008 51 cm
+1 0 0 1 85.37008 75 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm 2.53567 Tw /F2+0 10 Tf 12 TL (D\201veloppement/Sp\201cification d'une offre r\201seau social instanciable bas\201) Tj T* 0 Tw (sur le CMS Drupal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 63 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (https://drive.google.com/file/d/0B6BDAqCEefT3anJ4U1dIbEJ3cGM/view) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\200) Tj T* ET
 Q
 Q
 q
@@ -1695,7 +1719,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 199.1036 cm
+1 0 0 1 62.69291 175.1036 cm
 0 0 0 rg
 q
 1 0 0 1 6 51 cm
@@ -1735,32 +1759,66 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 169.9036 cm
+1 0 0 1 62.69291 145.9036 cm
 q
 BT 1 0 0 1 0 2.2 Tm 13.2 TL 0 0 0 rg /F1+0 11 Tf 13.2 TL (PROJETS RECENTS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 157.9036 cm
+1 0 0 1 62.69291 133.9036 cm
 Q
  
 endstream
 endobj
-% 'R28': class PDFStream 
-28 0 obj
+% 'R29': class PDFStream 
+29 0 obj
 % page stream
-<< /Length 7106 >>
+<< /Length 7662 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 0 0 0 rg
 q
-1 0 0 1 6 111 cm
+1 0 0 1 6 159 cm
 q
 0 .4 .607843 rg
 BT 1 0 0 1 0 2 Tm 33.88375 0 Td /F2+0 10 Tf 12 TL (2014\200:) Tj T* -33.88375 0 Td ET
 Q
+Q
+q
+1 0 0 1 85.37008 171 cm
+Q
+q
+1 0 0 1 85.37008 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Parti-socialiste.fr V3 - \(preprod\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Refonte compl\202te du site parti-socialiste.fr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (Actuellement en preprod) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\200) Tj T* ET
+Q
+Q
+q
+1 0 0 1 85.37008 123 cm
 Q
 q
 1 0 0 1 85.37008 123 cm
@@ -1850,7 +1908,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 507.0236 cm
+1 0 0 1 62.69291 459.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 123 cm
@@ -1952,7 +2010,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 384.0236 cm
+1 0 0 1 62.69291 336.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 111 cm
@@ -2047,7 +2105,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 177.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 147 cm
@@ -2149,68 +2207,69 @@ Q
  
 endstream
 endobj
-% 'R29': class PDFPageLabels 
-29 0 obj
+% 'R30': class PDFPageLabels 
+30 0 obj
 % Document Root
 << /Nums [ 0
- 30 0 R
+ 31 0 R
  1
- 31 0 R ] >>
-endobj
-% 'R30': class PDFPageLabel 
-30 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 32 0 R ] >>
 endobj
 % 'R31': class PDFPageLabel 
 31 0 obj
 % None
 << /S /D
+ /St 1 >>
+endobj
+% 'R32': class PDFPageLabel 
+32 0 obj
+% None
+<< /S /D
  /St 2 >>
 endobj
 xref
-0 32
+0 33
 0000000000 65535 f
 0000000113 00000 n
 0000000239 00000 n
 0000000514 00000 n
 0000090379 00000 n
-0000090605 00000 n
-0000090991 00000 n
-0000091237 00000 n
-0000091484 00000 n
-0000091753 00000 n
-0000092001 00000 n
-0000092231 00000 n
-0000092594 00000 n
-0000094682 00000 n
-0000120675 00000 n
-0000120976 00000 n
-0000122564 00000 n
-0000124615 00000 n
-0000154423 00000 n
-0000154713 00000 n
-0000156257 00000 n
-0000156416 00000 n
-0000156694 00000 n
-0000156819 00000 n
-0000157004 00000 n
-0000157190 00000 n
-0000157349 00000 n
-0000157465 00000 n
-0000165215 00000 n
-0000172424 00000 n
-0000172530 00000 n
-0000172607 00000 n
+0000090619 00000 n
+0000090887 00000 n
+0000091281 00000 n
+0000091527 00000 n
+0000091774 00000 n
+0000092043 00000 n
+0000092292 00000 n
+0000092522 00000 n
+0000092886 00000 n
+0000094974 00000 n
+0000120967 00000 n
+0000121268 00000 n
+0000122856 00000 n
+0000124907 00000 n
+0000154715 00000 n
+0000155005 00000 n
+0000156549 00000 n
+0000156708 00000 n
+0000156986 00000 n
+0000157111 00000 n
+0000157296 00000 n
+0000157482 00000 n
+0000157641 00000 n
+0000157757 00000 n
+0000165693 00000 n
+0000173458 00000 n
+0000173564 00000 n
+0000173641 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\337\000\304%\177\244\001\2221\300\020\006\264\014J\264) (\337\000\304%\177\244\001\2221\300\020\006\264\014J\264)] 
+ [(\020D\301{x\320|E\376\000z\310\)7K\022) (\020D\301{x\320|E\376\000z\310\)7K\022)] 
 
- /Info 21 0 R
- /Root 20 0 R
- /Size 32 >>
+ /Info 22 0 R
+ /Root 21 0 R
+ /Size 33 >>
 startxref
-172654
+173688
 %%EOF

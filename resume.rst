@@ -11,7 +11,7 @@ Xinhui Xu - Développeur Web
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Languages : PHP5, Ruby, SQL, JavaScript OOP, CoffeeScript, HTML5, CSS 
-:Frameworks/CMS : Drupal, Rails 4, AngularJS, Node.js, Symfony
+:Frameworks/CMS : Drupal, Ruby on Rails, AngularJS, Symfony, Node.js
 :Methodologies : Agile Scrum | Kaban, TDD, Design Patterns
 :Outils : Git/Svn, Capistrano, Rspec, Capybara, SimpleTest, Redmine, Apache, Memcache, Yeoman
 
@@ -19,11 +19,10 @@ EXPERIENCES
 -----------
 
 
-:2013 - 2014 : | **Référent technique / Lead développeur – Parti-socialiste – Paris**
+:2014 - 2015 : | **Référent technique / Lead développeur – Parti-socialiste service web – Paris**
         | Spécification, pilotage des prestataires
-        | Transition technologique Drupal/Symfony vers Rails/AngularJs
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
-        | Refonte du site parti-socialiste.fr en cours...
+        | Refonte du site parti-socialiste.fr v3 en cours...(preprod)
         |
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
@@ -34,6 +33,8 @@ EXPERIENCES
 :2008 - 2013 : | **Lead développeur PHP5/Drupal/Symfony – LaNetscouade – Paris**
         | Référent technique sur l'offre Drupal de l'agence
         | Développement/Spécification d'une offre réseau social instanciable basé sur le CMS Drupal
+        | https://drive.google.com/file/d/0B6BDAqCEefT3anJ4U1dIbEJ3cGM/view
+        |
         | Développement d'un réseau social en Symfony 1.4 (Activity feed, Relationship, Spaces, Privacy etc..)
         | Développement de WebApp avec Sencha Touch
         |
@@ -45,7 +46,12 @@ EXPERIENCES
 
 PROJETS RECENTS
 ---------------
-:2014 : | **Municipal 2014 - lavillequonaime.fr**
+:2014 : | **Parti-socialiste.fr V3 - (preprod)**
+        | Refonte complète du site parti-socialiste.fr
+        | Actuellement en preprod
+        | 
+
+        | **Municipal 2014 - lavillequonaime.fr**
         | Site événementiel - municipal 2014
         | http://www.lavillequonaime.fr
         | Technologies : Angular-JS, Rails 4, Yeoman, Bootstrap 3
