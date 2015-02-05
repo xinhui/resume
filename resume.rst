@@ -2,7 +2,7 @@ Xinhui Xu - Développeur Web
 ======================================================
 
 +-------------------------------------------+-----------------------------+
-|:Addresse : | 40 rue de Belleville         |                             |
+|:Addresse : | Rue Saint Fargeau            |                             |
 |            | 75020 PARIS                  |.. image:: xinhuixu.jpg      |
 |:Tel. : +33(0)7 81 80 96 76                |   :height: 323px            |
 |:Email : xinhuixu.dev@gmail.com            |   :width: 250px             |
@@ -22,7 +22,7 @@ EXPERIENCES
 :2014 - 2015 : | **Référent technique / Lead développeur – Parti-socialiste service web – Paris**
         | Spécification, pilotage des prestataires
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
-        | Refonte du site parti-socialiste.fr v3 en cours...(preprod)
+        | Refonte du site parti-socialiste.fr v3 en cours...actuellement en preprod
         |
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
@@ -43,18 +43,25 @@ EXPERIENCES
         | Maintenant du site de la Fédération
         | Spécification et Développement d'un intranet pour le suivi médical des joueurs
 
+LOISIRS
+---------------
+        | Course à pied
+        | Escalade
+        | Alpinisme
+        | Photographie argentique
 
 PROJETS RECENTS
 ---------------
 :2014 : | **Parti-socialiste.fr V3 - (preprod)**
         | Refonte complète du site parti-socialiste.fr
         | Actuellement en preprod
+        | Technologies : Ruby on Rails 4, Mysql, AngularJs, Bootstrap 3
         | 
 
         | **Municipal 2014 - lavillequonaime.fr**
         | Site événementiel - municipal 2014
         | http://www.lavillequonaime.fr
-        | Technologies : Angular-JS, Rails 4, Yeoman, Bootstrap 3
+        | Technologies : AngularJs, Rails 4, Yeoman, Bootstrap 3
         | 
 
         | **Webtv parti-socialiste.tv**
