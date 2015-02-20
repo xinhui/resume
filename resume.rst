@@ -58,10 +58,10 @@ PROJETS RECENTS
         | Technologies : Ruby on Rails 4, Mysql, AngularJs, Bootstrap 3
         | 
 
-        | **Municipal 2014 - lavillequonaime.fr**
-        | Site événementiel - municipal 2014
-        | http://www.lavillequonaime.fr
-        | Technologies : AngularJs, Rails 4, Yeoman, Bootstrap 3
+        | **Congres 2015 - congres.parti-socialiste.fr**
+        | Site événementiel - congres 2015
+        | http://congres.parti-socialiste.fr
+        | Technologies : AngularJs, Rails 4, Bootstrap 3, Solr
         | 
 
         | **Webtv parti-socialiste.tv**
