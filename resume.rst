@@ -20,7 +20,7 @@ EXPERIENCES
 
 :2015 : | **Développeur RoR – Terra Nova – Paris**
         | Refonte du site tnova.fr
-        | Migration Drupal 6 vers Ruby On Rails 4
+        | Migration Drupal 6 vers Rails 4
         | Technos : Drupal(6), Rails 4, Rspec, Solr, Agile Kanban, TDD
 
 :2014 - 2015 : | **Référent / Lead développeur – Parti-socialiste service web – Paris**
@@ -32,7 +32,7 @@ EXPERIENCES
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
         | http://www.shopmium.com
         | Développement de l'application Shopmium 
-        | Technos : Titanium, Javascript, Ruby On Rails 3
+        | Technos : Titanium, Javascript, Rails 3
 
 :2008 - 2013 : | **Lead développeur PHP5/Drupal/Symfony – LaNetscouade – Paris**
         | Référent technique sur l'offre Drupal de l'agence
@@ -67,7 +67,7 @@ PROJETS RECENTS
 :2014 : | **Parti-socialiste.fr V3 - (preprod)**
         | Refonte complète du site parti-socialiste.fr
         | Actuellement en preprod
-        | Technologies : Ruby on Rails 4, Mysql, AngularJs, Bootstrap 3
+        | Technologies : Rails 4, Mysql, AngularJs, Bootstrap 3
         | 
 
         | **Congres 2015 - congres.parti-socialiste.fr**
