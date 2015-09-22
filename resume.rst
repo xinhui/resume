@@ -18,8 +18,11 @@ COMPÉTENCES TECHNIQUES
 EXPERIENCES
 -----------
 
+:2013 : | **Freelance - Développeur RoR – Terra Nova – Paris**
+        | Refonte du site tnova.fr
+        | Migration Drupal 6 vers Ruby On Rails 4
 
-:2014 - 2015 : | **Référent technique / Lead développeur – Parti-socialiste service web – Paris**
+:2014 - 2015 : | **Freelance - Référent / Lead développeur – Parti-socialiste service web – Paris**
         | Spécification, pilotage des prestataires
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
         | Refonte du site parti-socialiste.fr v3 en cours...actuellement en preprod
@@ -52,6 +55,14 @@ LOISIRS
 
 PROJETS RECENTS
 ---------------
+
+:2015 : | **tnova.fr**
+        | Refonte complète du site tnova.fr
+        | Migration drupal 6 vers RoR 4
+        | http://tnova.fr
+        | Technologies : Ruby on Rails 4, Mysql, Bootstrap 3
+        | 
+
 :2014 : | **Parti-socialiste.fr V3 - (preprod)**
         | Refonte complète du site parti-socialiste.fr
         | Actuellement en preprod
