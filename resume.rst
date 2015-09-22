@@ -22,17 +22,20 @@ EXPERIENCES
         | Refonte du site tnova.fr
         | Migration Drupal 6 vers Rails 4
         | Technos : Drupal(6), Rails 4, Rspec, Solr, Agile Kanban, TDD
+        |
 
 :2014 - 2015 : | **Référent / Lead développeur – Parti-socialiste service web – Paris**
         | Spécification, pilotage des prestataires
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
         | Refonte du site parti-socialiste.fr v3
         | Technos : Drupal(6, 7), Rails 4, Rspec, Solr, AngularJs, Git, Redmine...
+        |
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
         | http://www.shopmium.com
         | Développement de l'application Shopmium 
-        | Technos : Titanium, Javascript, Rails 3
+        | Technos : Titanium, Rails 3, Rspec, Capybara
+        |
 
 :2008 - 2013 : | **Lead développeur PHP5/Drupal/Symfony – LaNetscouade – Paris**
         | Référent technique sur l'offre Drupal de l'agence
@@ -41,11 +44,13 @@ EXPERIENCES
         | Développement d'un réseau social en Symfony 1.4 (Activity feed, Relationship, Spaces, Privacy etc..)
         | Développement de WebApp avec Sencha Touch
         | Technos : Drupal(5,6,7), Symfony (1.4), Capistrano, Redmine, Git, Agile Scrum - Kaban
+        |
 
 :2007 : | **Développeur web – Fédération Française de Basketball – Paris**
         | Maintenance du site http://www.ffbb.com
         | Spécification et Développement d'un intranet pour le suivi médical des joueurs
         | Technos : Php/Mysql
+        |
 
 LOISIRS
 ---------------
