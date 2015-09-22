@@ -21,13 +21,13 @@ EXPERIENCES
 :2015 : | **Développeur RoR – Terra Nova – Paris**
         | Refonte du site tnova.fr
         | Migration Drupal 6 vers Ruby On Rails 4
-        | Technos : Drupal(6), Ruby On Rails 4, Rspec, Agile Kanban, TDD
+        | Technos : Drupal(6), Rails 4, Rspec, Solr, Agile Kanban, TDD
 
 :2014 - 2015 : | **Référent / Lead développeur – Parti-socialiste service web – Paris**
         | Spécification, pilotage des prestataires
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
         | Refonte du site parti-socialiste.fr v3
-        | Technos : Drupal(6, 7), Ruby On Rails 4, Rspec, AngularJs, Git, Redmine...
+        | Technos : Drupal(6, 7), Rails 4, Rspec, Solr, AngularJs, Git, Redmine...
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
         | http://www.shopmium.com
@@ -43,7 +43,7 @@ EXPERIENCES
         | Technos : Drupal(5,6,7), Symfony (1.4), Capistrano, Redmine, Git, Agile Scrum - Kaban
 
 :2007 : | **Développeur web – Fédération Française de Basketball – Paris**
-        | Maintenant du site de la Fédération
+        | Maintenance du site http://www.ffbb.com
         | Spécification et Développement d'un intranet pour le suivi médical des joueurs
         | Technos : Php/Mysql
 
@@ -57,11 +57,11 @@ LOISIRS
 PROJETS RECENTS
 ---------------
 
-:2015 : | **tnova.fr**
+:2015 : | **Terra Nova**
         | Refonte complète du site tnova.fr
         | Migration drupal 6 vers RoR 4
         | http://tnova.fr
-        | Technologies : Ruby on Rails 4, Mysql, Bootstrap 3
+        | Technologies : Rails 4, Mysql, Bootstrap 3, Solr
         | 
 
 :2014 : | **Parti-socialiste.fr V3 - (preprod)**
