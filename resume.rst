@@ -18,33 +18,34 @@ COMPÉTENCES TECHNIQUES
 EXPERIENCES
 -----------
 
-:2013 : | **Freelance - Développeur RoR – Terra Nova – Paris**
+:2015 : | **Développeur RoR – Terra Nova – Paris**
         | Refonte du site tnova.fr
         | Migration Drupal 6 vers Ruby On Rails 4
+        | Technos : Drupal(6), Ruby On Rails 4, Rspec, Agile Kanban, TDD
 
-:2014 - 2015 : | **Freelance - Référent / Lead développeur – Parti-socialiste service web – Paris**
+:2014 - 2015 : | **Référent / Lead développeur – Parti-socialiste service web – Paris**
         | Spécification, pilotage des prestataires
         | Introduction aux méthodes Agiles (Scrum/kanban, Mobile first, TDD etc..)
-        | Refonte du site parti-socialiste.fr v3 en cours...actuellement en preprod
-        |
+        | Refonte du site parti-socialiste.fr v3
+        | Technos : Drupal(6, 7), Ruby On Rails 4, Rspec, AngularJs, Git, Redmine...
 
 :2013 : | **Développeur Mobile Titanium – Shopmium – Paris**
         | http://www.shopmium.com
         | Développement de l'application Shopmium 
-        |
+        | Technos : Titanium, Javascript, Ruby On Rails 3
 
 :2008 - 2013 : | **Lead développeur PHP5/Drupal/Symfony – LaNetscouade – Paris**
         | Référent technique sur l'offre Drupal de l'agence
         | Développement/Spécification d'une offre réseau social instanciable basé sur le CMS Drupal
         | https://drive.google.com/file/d/0B6BDAqCEefT3anJ4U1dIbEJ3cGM/view
-        |
         | Développement d'un réseau social en Symfony 1.4 (Activity feed, Relationship, Spaces, Privacy etc..)
         | Développement de WebApp avec Sencha Touch
-        |
+        | Technos : Drupal(5,6,7), Symfony (1.4), Capistrano, Redmine, Git, Agile Scrum - Kaban
 
-:2007 : | **Développeur web PHP/MySql – Fédération Française de Basketball – Paris**
+:2007 : | **Développeur web – Fédération Française de Basketball – Paris**
         | Maintenant du site de la Fédération
         | Spécification et Développement d'un intranet pour le suivi médical des joueurs
+        | Technos : Php/Mysql
 
 LOISIRS
 ---------------
