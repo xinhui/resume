@@ -54,10 +54,7 @@ EXPERIENCES
 
 LOISIRS
 ---------------
-        | Course à pied
-        | Escalade
-        | Alpinisme
-        | Photographie argentique
+        | Course à pied, Escalade, Alpinisme, Photographie argentique
 
 PROJETS RECENTS
 ---------------
